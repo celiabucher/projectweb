@@ -1,0 +1,33 @@
+  @import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+ font-family: 'Share', cursive;
+ background-color: pink;
+ font-size: 2em;
+}
+
+
+h1, h2, h3, h4{
+ font-family: 'Righteous', cursive;
+}
+
+section{
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  font-size: 4em;
+  text-align: center;
+}
+
+#sign-up-form{
+   background: #ffffff;
+   padding: 2em;
+   border-radius: 68px 12px 89px 6px;
+}
+
+fieldset{
+  border: 0;
+}
